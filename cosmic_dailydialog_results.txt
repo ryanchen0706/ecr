@@ -1,0 +1,1 @@
+54.29	57.82	47.17	51.4	Namespace(active_listener=True, attention='simple', batch_size=8, class_weight=True, cuda=True, dropout=0.5, epochs=20, l2=3e-05, lr=0.0001, mode1=2, mu=0, no_cuda=False, norm=0, rec_dropout=0.3, residual=True, seed=500, tensorboard=False)

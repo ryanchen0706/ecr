@@ -1,0 +1,1 @@
+64.64	64.65	Namespace(active_listener=True, attention='simple', batch_size=8, class_weight=False, classify='emotion', cuda=True, dropout=0.5, epochs=60, l2=3e-05, lr=0.0001, mode1=2, mu=0.0, no_cuda=False, norm=0, rec_dropout=0.3, residual=False, seed=100, tensorboard=False)

@@ -1,0 +1,1 @@
+72.87	72.63	Namespace(active_listener=True, attention='simple', batch_size=8, class_weight=True, classify='sentiment', cuda=True, dropout=0.5, epochs=40, l2=0.0003, lr=0.0001, mode1=2, mu=0, no_cuda=False, norm=0, rec_dropout=0.5, residual=True, seed=100, tensorboard=False)
